@@ -2,7 +2,7 @@
 let a = ["apple", "banana"];
 console.log(a[0]); 
 
-a.push("berry"); // Adds to the end
+a.push("berry"); 
 a.unshift("cherry"); // Adds to the beginning
 console.log(a); 
 
